@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CheeseBoarder/Scenes/Start.unity
+    guid: f2cfcfd48d1cf4a7db6072b68f3e9203
+  - enabled: 1
+    path: Assets/CheeseBoarder/Scenes/Level1.unity
+    guid: 56395040efdd0e14086c90d753959fb6
+  - enabled: 1
+    path: Assets/CheeseBoarder/Scenes/End.unity
+    guid: 529dfe5150e68430f8995b31ba36087b
+  - enabled: 0
+    path: Assets/CatSpaceship/Scenes/MainMenu.unity
+    guid: a4658c5ed710a45eb9438fa825c5b449
+  - enabled: 0
+    path: Assets/CatSpaceship/Scenes/Lvl1.unity
+    guid: 2f888d874d324491d9d1aad46a0a34c4
+  - enabled: 0
+    path: Assets/CatSpaceship/Scenes/GameOver.unity
+    guid: 268196812779e4cd09a019409331c6ba
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 20bca03a6bd984ec0943079d5915480b, type: 2}
